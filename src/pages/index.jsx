@@ -139,35 +139,55 @@ function Newsletter() {
 function Resume() {
   let resume = [
     {
-      company: 'Planetaria',
-      title: 'CEO',
+      company: 'Infosys',
+      title: 'Associate Scrum Master',
       logo: logoPlanetaria,
-      start: '2019',
+      start: 'Jun-2022',
       end: {
         label: 'Present',
         dateTime: new Date().getFullYear(),
       },
     },
     {
-      company: 'Airbnb',
-      title: 'Product Designer',
+      company: 'Freeman Art Company',
+      title: 'Founder and CEO',
+      logo: logoPlanetaria,
+      start: 'May-2021',
+      end: {
+        label: 'Present',
+        dateTime: new Date().getFullYear(),
+      },
+    },
+    {
+      company: 'HubOEM',
+      title: 'Co-Founder, Sales',
+      logo: logoPlanetaria,
+      start: 'Jan-2021',
+      end: {
+        label: 'Present',
+        dateTime: new Date().getFullYear(),
+      },
+    },
+    {
+      company: 'Nuvasive',
+      title: 'Surgical Sales Consultant',
       logo: logoAirbnb,
-      start: '2014',
-      end: '2019',
+      start: 'Feb-2020',
+      end: 'Jan-2021',
     },
     {
-      company: 'Facebook',
-      title: 'iOS Software Engineer',
+      company: 'DePuy Synthes',
+      title: 'Surgical Saels Consultant',
       logo: logoFacebook,
-      start: '2011',
-      end: '2014',
+      start: 'Jul-2018',
+      end: 'Oct-2019',
     },
     {
-      company: 'Starbucks',
-      title: 'Shift Supervisor',
+      company: 'SHI',
+      title: 'Inside Sales',
       logo: logoStarbucks,
-      start: '2008',
-      end: '2011',
+      start: 'Nov-2017',
+      end: 'Jul-2018',
     },
   ]
 
