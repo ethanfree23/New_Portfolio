@@ -44,7 +44,7 @@ export default function About() {
         <title>About - Ethan Freeman</title>
         <meta
           name="description"
-          content="I’m Ethan Freeman. I live in Houston, where I design the new software products."
+          content="I’m Ethan Freeman. I live in Texas, where I design the new software products."
         />
       </Head>
       <Container className="mt-16 sm:mt-32">
@@ -61,28 +61,22 @@ export default function About() {
           </div>
           <div className="lg:order-first lg:row-span-2">
             <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
-              I’m Ethan Freeman. I live in Houston, where I design the new software products.
+              I’m Ethan Freeman. I live in Texas, where I design the new software products.
             </h1>
             <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
               <p>
-                I’ve loved making things for as long as I can remember, and
-                wrote my first program when I was 6 years old, just two weeks
-                after my mom brought home the brand new Macintosh LC 550 that I
-                taught myself to type on.
+                I have always loved the idea of putting together a product for others to use to their benefit.
+                When I was in school growing up, any project assignment, regardless of the class, I would knock out of the park.
               </p>
               <p>
-                The only thing I loved more than computers as a kid was space.
-                When I was 8, I climbed the 40-foot oak tree at the back of our
-                yard while wearing my older sister’s motorcycle helmet, counted
-                down from three, and jumped — hoping the tree was tall enough
-                that with just a bit of momentum I’d be able to get to orbit.
+                I was never very fond of school, and once I got into the corporate environment, I could not stand it.
+                Non-stop, I would think about business ideas. Finally, I decided it was better to get started and fail than to simply fail.
+                Now, almost two years later, I can say things are a lot better. I am not earning a ton, but I make do.
               </p>
               <p>
-                I spent the next few summers indoors working on a rocket design,
-                while I recovered from the multiple surgeries it took to fix my
-                badly broken legs. It took nine iterations, but when I was 15 I
-                sent my dad’s Blackberry into orbit and was able to transmit a
-                photo back down to our family computer from space.
+                These past two years, I have been working on two startups. One, a headless e-commerce website for machine manufacturers to sell after market goods.
+                The other, a software that allows users to rotate fine art from local artists (coffee shop, VC fund, an individual's home).
+                I love both businesses and derive great joy from the successes, and I find intense focus all throughout. 
               </p>
               <p>
                 Today, I’m the founder of Planetaria, where we’re working on
@@ -94,20 +88,20 @@ export default function About() {
           </div>
           <div className="lg:pl-20">
             <ul role="list">
-              <SocialLink href="#" icon={TwitterIcon}>
+              {/* <SocialLink href="#" icon={TwitterIcon}>
                 Follow on Twitter
-              </SocialLink>
-              <SocialLink href="#" icon={InstagramIcon} className="mt-4">
+              </SocialLink> */}
+              <SocialLink href="https://www.instagram.com/_homem.livre_/" icon={InstagramIcon} className="mt-4">
                 Follow on Instagram
               </SocialLink>
-              <SocialLink href="#" icon={GitHubIcon} className="mt-4">
+              <SocialLink href="https://github.com/ethanfree23" icon={GitHubIcon} className="mt-4">
                 Follow on GitHub
               </SocialLink>
-              <SocialLink href="#" icon={LinkedInIcon} className="mt-4">
+              <SocialLink href="https://www.linkedin.com/" icon={LinkedInIcon} className="mt-4">
                 Follow on LinkedIn
               </SocialLink>
               <SocialLink
-                href="mailto:spencer@planetaria.tech"
+                href="mailto:ethan23@gmail.com"
                 icon={MailIcon}
                 className="mt-8 border-t border-zinc-100 pt-8 dark:border-zinc-700/40"
               >
