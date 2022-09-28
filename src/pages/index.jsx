@@ -19,7 +19,7 @@ import image4 from '@/images/photos/image-4.jpg'
 import image5 from '@/images/photos/image-5.jpg'
 import logoAirbnb from '@/images/logos/airbnb.svg'
 import logoFacebook from '@/images/logos/facebook.svg'
-import logoPlanetaria from '@/images/logos/planetaria.svg'
+import logoInfosys from '@/images/logos/infosys.svg'
 import logoStarbucks from '@/images/logos/starbucks.svg'
 import { generateRssFeed } from '@/lib/generateRssFeed'
 import { getAllArticles } from '@/lib/getAllArticles'
@@ -141,7 +141,7 @@ function Resume() {
     {
       company: 'Infosys',
       title: 'Associate Scrum Master',
-      logo: logoPlanetaria,
+      logo: logoInfosys,
       start: 'Jun-2022',
       end: {
         label: 'Present',
@@ -151,7 +151,7 @@ function Resume() {
     {
       company: 'Freeman Art Company',
       title: 'Founder and CEO',
-      logo: logoPlanetaria,
+      logo: logoInfosys,
       start: 'May-2021',
       end: {
         label: 'Present',
@@ -161,7 +161,7 @@ function Resume() {
     {
       company: 'HubOEM',
       title: 'Co-Founder, Sales',
-      logo: logoPlanetaria,
+      logo: logoInfosys,
       start: 'Jan-2021',
       end: {
         label: 'Present',
