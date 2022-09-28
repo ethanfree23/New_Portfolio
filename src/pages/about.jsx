@@ -79,6 +79,8 @@ export default function About() {
                 I love both businesses and derive great joy from the successes, and I find intense focus all throughout. 
               </p>
               <p>
+                Today, I am the CEO of FAC, and the CCO of HubOEM, though titles are kinda of pointless. I help where I can, and hold a sense of urgency that I disperse among the team.
+                
                 Today, I’m the founder of Planetaria, where we’re working on
                 civilian space suits and manned shuttle kits you can assemble at
                 home so that the next generation of kids really <em>can</em>{' '}
