@@ -4,10 +4,10 @@ import Head from 'next/head'
 import { Card } from '@/components/Card'
 import { SimpleLayout } from '@/components/SimpleLayout'
 import logoAnimaginary from '@/images/logos/animaginary.svg'
-import logoCosmos from '@/images/logos/cosmos.svg'
+// import logoCosmos from '@/images/logos/cosmos.svg'
 import logoHelioStream from '@/images/logos/helio-stream.svg'
-import logoOpenShuttle from '@/images/logos/open-shuttle.svg'
-import logoPlanetaria from '@/images/logos/planetaria.svg'
+// import logoOpenShuttle from '@/images/logos/open-shuttle.svg'
+// import logoPlanetaria from '@/images/logos/planetaria.svg'
 
 const projects = [
   {
@@ -15,7 +15,7 @@ const projects = [
     description:
       'An app that allows companies and individuals to manage their art rotations.',
     link: { href: 'http://www.freeemanartcompany.com', label: 'freemanartcompany.com' },
-    logo: logoPlanetaria,
+    // logo: logoPlanetaria,
   },
   {
     name: 'HubOEM',
