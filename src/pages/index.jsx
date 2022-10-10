@@ -11,16 +11,19 @@ import {
   InstagramIcon,
   GitHubIcon,
   LinkedInIcon,
+  MediumIcon,
 } from '@/components/SocialIcons'
 import image1 from '@/images/photos/image-1.jpg'
 import image2 from '@/images/photos/image-2.jpg'
 import image3 from '@/images/photos/image-3.jpg'
 import image4 from '@/images/photos/image-4.jpg'
 import image5 from '@/images/photos/image-5.jpg'
-import logoAirbnb from '@/images/logos/airbnb.svg'
-import logoFacebook from '@/images/logos/facebook.svg'
 import logoInfosys from '@/images/logos/infosys.svg'
-import logoStarbucks from '@/images/logos/starbucks.svg'
+import logoFAC from '@/images/logos/fac.svg'
+import logoHuboem from '@/images/logos/huboem.svg'
+import logoNuvasive from '@/images/logos/nuvasive.svg'
+import logoSynthes from '@/images/logos/synthes.svg'
+import logoSHI from '@/images/logos/shi.svg'
 import { generateRssFeed } from '@/lib/generateRssFeed'
 import { getAllArticles } from '@/lib/getAllArticles'
 import { formatDate } from '@/lib/formatDate'
@@ -151,7 +154,7 @@ function Resume() {
     {
       company: 'Freeman Art Company',
       title: 'Founder and CEO',
-      logo: logoInfosys,
+      logo: logoFAC,
       start: 'May-2021',
       end: {
         label: 'Present',
@@ -161,7 +164,7 @@ function Resume() {
     {
       company: 'HubOEM',
       title: 'Co-Founder, Sales',
-      logo: logoInfosys,
+      logo: logoHuboem,
       start: 'Jan-2021',
       end: {
         label: 'Present',
@@ -171,21 +174,21 @@ function Resume() {
     {
       company: 'Nuvasive',
       title: 'Surgical Sales Consultant',
-      logo: logoAirbnb,
+      logo: logoNuvasive,
       start: 'Feb-2020',
       end: 'Jan-2021',
     },
     {
       company: 'DePuy Synthes',
       title: 'Surgical Saels Consultant',
-      logo: logoFacebook,
+      logo: logoSynthes,
       start: 'Jul-2018',
       end: 'Oct-2019',
     },
     {
       company: 'SHI',
       title: 'Inside Sales',
-      logo: logoStarbucks,
+      logo: logoSHI,
       start: 'Nov-2017',
       end: 'Jul-2018',
     },
@@ -284,26 +287,26 @@ export default function Home({ articles }) {
             Software designer, founder, and amateur entrepreneur.
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-            I’m Ethan, a software designer and entrepreneur based in Houston. I’m the founder and CEO of Freeman Art Company, where we develop technologies that empower regular artists to earn passive income and sell art on their own terms.
+            Hi, I’m Ethan, a software designer and entrepreneur based in Houston. I’m the founder and CEO of Freeman Art Company, an app to help manage art rotations, as well as the Co-Founder of HubOEM, a headless e-commerce platform for original equipment and consumer packaged goods manufacturers. Both companies center around easier connections between both parties by means of QR codes. Overall, you can say I am fasinated with the way software can revolutionize how business is done and create economic incentive for all stakeholders. 
           </p>
           <div className="mt-6 flex gap-6">
             <SocialLink
-              href="https://twitter.com"
-              aria-label="Follow on Twitter"
-              icon={TwitterIcon}
+              href="https://medium.com/@ethanfree23"
+              aria-label="Follow on Medium"
+              icon={MediumIcon}
             />
             <SocialLink
-              href="https://instagram.com"
+              href="https://www.instagram.com/_homem.livre_/"
               aria-label="Follow on Instagram"
               icon={InstagramIcon}
             />
             <SocialLink
-              href="https://github.com"
+              href="https://github.com/ethanfree23"
               aria-label="Follow on GitHub"
               icon={GitHubIcon}
             />
             <SocialLink
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/ethanfreeman23/"
               aria-label="Follow on LinkedIn"
               icon={LinkedInIcon}
             />
