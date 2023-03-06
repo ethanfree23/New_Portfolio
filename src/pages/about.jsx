@@ -10,7 +10,7 @@ import {
   GitHubIcon,
   LinkedInIcon,
 } from '@/components/SocialIcons'
-import portraitImage from '@/images/portrait.jpg'
+import headshotImage from '@/images/headshot.jpg'
 
 function SocialLink({ className, href, children, icon: Icon }) {
   return (
@@ -52,7 +52,7 @@ export default function About() {
           <div className="lg:pl-20">
             <div className="max-w-xs px-2.5 lg:max-w-none">
               <Image
-                src={portraitImage}
+                src={headshotImage}
                 alt=""
                 sizes="(min-width: 1024px) 32rem, 20rem"
                 className="aspect-square rotate-3 rounded-2xl bg-zinc-100 object-cover dark:bg-zinc-800"
@@ -93,13 +93,13 @@ export default function About() {
               {/* <SocialLink href="#" icon={TwitterIcon}>
                 Follow on Twitter
               </SocialLink> */}
-              <SocialLink href="https://www.instagram.com/_homem.livre_/" icon={InstagramIcon} className="mt-4">
+              <SocialLink href="https://www.instagram.com/the.ethan.freeman/" icon={InstagramIcon} className="mt-4">
                 Follow on Instagram
               </SocialLink>
               <SocialLink href="https://github.com/ethanfree23" icon={GitHubIcon} className="mt-4">
                 Follow on GitHub
               </SocialLink>
-              <SocialLink href="https://www.linkedin.com/" icon={LinkedInIcon} className="mt-4">
+              <SocialLink href="https://www.linkedin.com/in/ethanfreeman23" icon={LinkedInIcon} className="mt-4">
                 Follow on LinkedIn
               </SocialLink>
               <SocialLink

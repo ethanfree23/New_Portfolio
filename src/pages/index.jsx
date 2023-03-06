@@ -13,11 +13,12 @@ import {
   LinkedInIcon,
   MediumIcon,
 } from '@/components/SocialIcons'
-import image1 from '@/images/photos/image-1.jpg'
-import image2 from '@/images/photos/image-2.jpg'
-import image3 from '@/images/photos/image-3.jpg'
-import image4 from '@/images/photos/image-4.jpg'
-import image5 from '@/images/photos/image-5.jpg'
+
+import chicago from 'src/images/photos/chicago.jpeg'
+import forest from 'src/images/photos/forest.jpeg'
+import hiking from 'src/images/photos/hiking.jpeg'
+import reflection from 'src/images/photos/reflection.jpeg'
+import cloud from 'src/images/photos/cloud.jpg'
 import logoInfosys from '@/images/logos/infosys.svg'
 import logoFAC from '@/images/logos/fac.svg'
 import logoHuboem from '@/images/logos/huboem.svg'
@@ -248,7 +249,7 @@ function Photos() {
   return (
     <div className="mt-16 sm:mt-20">
       <div className="-my-4 flex justify-center gap-5 overflow-hidden py-4 sm:gap-8">
-        {[image1, image2, image3, image4, image5].map((image, imageIndex) => (
+        {[forest, hiking, chicago, reflection, cloud].map((image, imageIndex) => (
           <div
             key={image.src}
             className={clsx(
@@ -296,7 +297,7 @@ export default function Home({ articles }) {
               icon={MediumIcon}
             />
             <SocialLink
-              href="https://www.instagram.com/_homem.livre_/"
+              href="https://www.instagram.com/the.ethan.freeman/"
               aria-label="Follow on Instagram"
               icon={InstagramIcon}
             />
