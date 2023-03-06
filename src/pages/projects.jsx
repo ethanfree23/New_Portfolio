@@ -3,47 +3,33 @@ import Head from 'next/head'
 
 import { Card } from '@/components/Card'
 import { SimpleLayout } from '@/components/SimpleLayout'
-import logoAnimaginary from '@/images/logos/animaginary.svg'
+import logoFAC from '@/images/logos/fac.svg'
+import logoHuboem from '@/images/logos/huboem.svg'
 // import logoCosmos from '@/images/logos/cosmos.svg'
-import logoHelioStream from '@/images/logos/helio-stream.svg'
+// import logoHelioStream from '@/images/logos/helio-stream.svg'
 // import logoOpenShuttle from '@/images/logos/open-shuttle.svg'
-// import logoPlanetaria from '@/images/logos/planetaria.svg'
 
 const projects = [
   {
     name: 'FAC',
     description:
-      'An app that allows companies and individuals to manage their art rotations.',
-    link: { href: 'http://www.freeemanartcompany.com', label: 'freemanartcompany.com' },
-    // logo: logoPlanetaria,
+      'Artwork as a service for businesses and individuals. Keep things fresh, experience more art, at a fraction of the price',
+    link: { href: 'http://www.freemanartcompany.com', label: 'freemanartcompany.com' },
+    logo: logoFAC,
   },
   {
     name: 'HubOEM',
     description:
-      'A headless ecommerce platform built for consumer packaged goods manufacturers to access documents, order parts, and request services, across manufacturers, all in one place.',
-    link: { href: '#', label: 'github.com' },
-    logo: logoAnimaginary,
-  },
-  {
-    name: 'Infosys',
-    description:
-      'A software development company based in India',
-    link: { href: '#', label: 'github.com' },
-    logo: logoHelioStream,
+      'A customer service platform for machine manufacturers. Customers can manage all their machines down to the serial number, from one dashboard.',
+    link: { href: 'http://www.huboem.com', label: 'huboem.com' },
+    logo: logoHuboem,
   },
   // {
-  //   name: 'cosmOS',
+  //   name: 'Infosys',
   //   description:
-  //     'The operating system that powers our Planetaria space shuttles.',
+  //     'A software development company based in India',
   //   link: { href: '#', label: 'github.com' },
-  //   logo: logoCosmos,
-  // },
-  // {
-  //   name: 'OpenShuttle',
-  //   description:
-  //     'The schematics for the first rocket I designed that successfully made it to orbit.',
-  //   link: { href: '#', label: 'github.com' },
-  //   logo: logoOpenShuttle,
+  //   logo: logoHelioStream,
   // },
 ]
 
