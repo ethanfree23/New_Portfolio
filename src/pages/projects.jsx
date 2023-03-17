@@ -13,14 +13,14 @@ const projects = [
   {
     name: 'FAC',
     description:
-      'Artwork as a service for businesses and individuals. Keep things fresh, experience more art, at a fraction of the price',
+      'Artwork-as-a-service for businesses and individuals. Keep things fresh, experience more art, at a fraction of the price',
     link: { href: 'http://www.freemanartcompany.com', label: 'freemanartcompany.com' },
     logo: logoFAC,
   },
   {
     name: 'HubOEM',
     description:
-      'A customer service platform for machine manufacturers. Customers can manage all their machines down to the serial number, from one dashboard.',
+      'Customer service platform for machine manufacturers. Parts, service, documents.',
     link: { href: 'http://www.huboem.com', label: 'huboem.com' },
     logo: logoHuboem,
   },
