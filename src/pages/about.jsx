@@ -65,26 +65,13 @@ export default function About() {
             </h1>
             <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
               <p>
-                I have always loved the idea of putting together a product for others to use to their benefit.
-                When I was in school growing up, any project assignment, regardless of the class, I would knock out of the park.
+                From a young age, I was fasinated with entrepreneurship, though I did not know to call it that at the time. Every time I caught myself saying, "They should make a _________ that does ________ differently" or "Why don't they have a thing where you can do xyz without _____ problem?", a feeling would strike, telling me to be the they.
               </p>
               <p>
-                I was never very fond of school, and once I got into the corporate environment, I could not stand it.
-                Non-stop, I would think about business ideas. Finally, I decided it was better to get started and fail than to simply fail.
-                Now, almost two years later, I can say things are a lot better. I am not earning a ton, but I make do.
+                March 9th, 2020 I found myself starting my dream job as a surgical sales consultant. Over the course of the next year, life was turned upside down, and I found myself with the opportunity to focus on what mattered most to me. A thought that had haunted me for years finally found its way to my daily agenda: Artwork as a service. Also, I was forunate enough to be the 3rd member to a software startup: customer service portal for machine manufacturers.
               </p>
               <p>
-                These past two years, I have been working on two startups. One, a headless e-commerce website for machine manufacturers to sell after market goods.
-                The other, a software that allows users to rotate fine art from local artists (coffee shop, VC fund, an individual's home).
-                I love both businesses and derive great joy from the successes, and I find intense focus all throughout. 
-              </p>
-              <p>
-                Today, I am the CEO of FAC, and the CCO of HubOEM, though titles are kinda of pointless. I help where I can, and hold a sense of urgency that I disperse among the team.
-                
-                Today, I’m the founder of Planetaria, where we’re working on
-                civilian space suits and manned shuttle kits you can assemble at
-                home so that the next generation of kids really <em>can</em>{' '}
-                make it to orbit — from the comfort of their own backyards.
+                As of March 2023, FAC is partend with Hines, a commerical real estate management company, with over 1MM sft of office space in Houston. HubOEM is partnered with Ipsen USA in a lifetime license agreement. Over the course of the next year, I hope the startups are self sustaining in terms of day-to-day operations, new ventures, and process management.
               </p>
             </div>
           </div>

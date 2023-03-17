@@ -153,20 +153,20 @@ function Resume() {
       },
     },
     {
-      company: 'Freeman Art Company',
-      title: 'Founder and CEO',
-      logo: logoFAC,
-      start: 'May-2021',
+      company: 'HubOEM',
+      title: 'Co-Founder, Sales',
+      logo: logoHuboem,
+      start: 'Jan-2021',
       end: {
         label: 'Present',
         dateTime: new Date().getFullYear(),
       },
     },
     {
-      company: 'HubOEM',
-      title: 'Co-Founder, Sales',
-      logo: logoHuboem,
-      start: 'Jan-2021',
+      company: 'Freeman Art Company',
+      title: 'Founder',
+      logo: logoFAC,
+      start: 'Oct-2020',
       end: {
         label: 'Present',
         dateTime: new Date().getFullYear(),
