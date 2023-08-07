@@ -32,51 +32,64 @@ export default function Speaking() {
         <title>Speaking - Ethan Freeman</title>
         <meta
           name="description"
-          content="I’ve spoken at events all around the world and been interviewed for many podcasts."
+          content="I have a podcast project where I interview artists about the business side of their business."
         />
       </Head>
       <SimpleLayout
-        title="I’ve spoken at events all around the world and been interviewed for many podcasts."
-        intro="One of my favorite ways to share my ideas is live on stage, where there’s so much more communication bandwidth than there is in writing, and I love podcast interviews because they give me the opportunity to answer questions instead of just present my opinions."
+        title="I have a podcast project where I interview artists about the business side of their business."
+        intro="Our conversations cover their entry to the industry, building their brand, and expanding their network. I find these types of entrepreneurs fascinating because they have to engage both their creative sides for their products as well as marketing, but use the logical side of their brain to get to the big leagues."
       >
         <div className="space-y-20">
-          <SpeakingSection title="Conferences">
+          <SpeakingSection title="Podcast">
             <Appearance
-              href="#"
-              title="In space, no one can watch you stream — until now"
-              description="A technical deep-dive into HelioStream, the real-time streaming library I wrote for transmitting live video back to Earth."
-              event="SysConf 2021"
-              cta="Watch video"
+              href="https://open.spotify.com/episode/3UoMLPDuP0EFp1jvP5k1Ba?si=d949427a18e84ad9"
+              title="Brandon Wisecarver"
+              description="Brandon Wisecarver is a NYC-based artist, focusing on virtual-reality art. After starting his career in fine art at Marin Community College, Brandon moved to NYC to find work as a creative, doing anything with fine art, eventually finding work as a janitor with the Con Artist Collective and working his way up to being their Studio Manager. Brandon has garnered a healthy following on TikTok, where he makes virtual-reality art in only a few minutes, describing art history in the meantime. This was a very fun conversation, with a man that is not only talented, but also well read."
+              event="Freeman Art Company"
+              cta="Listen to the podcast"
             />
             <Appearance
-              href="#"
-              title="Lessons learned from our first product recall"
-              description="They say that if you’re not embarassed by your first version, you’re doing it wrong. Well when you’re selling DIY space shuttle kits it turns out it’s a bit more complicated."
-              event="Business of Startups 2020"
-              cta="Watch video"
-            />
-          </SpeakingSection>
-          <SpeakingSection title="Podcasts">
-            <Appearance
-              href="#"
-              title="Using design as a competitive advantage"
-              description="How we used world-class visual design to attract a great team, win over customers, and get more press for Planetaria."
-              event="Encoding Design, July 2022"
-              cta="Listen to podcast"
+              href="https://rss.com/podcasts/freemanartcompany/911427/"
+              title="Adrian Bermeo"
+              description="Adrian is an NYC-based painter and curator, putting together art shows for other artists throughout the various boroughs of NYC."
+              event="Freeman Art Company"
+              cta="Listen to the podcast"
             />
             <Appearance
-              href="#"
-              title="Bootstrapping an aerospace company to $17M ARR"
-              description="The story of how we built one of the most promising space startups in the world without taking any capital from investors."
-              event="The Escape Velocity Show, March 2022"
-              cta="Listen to podcast"
+              href="https://rss.com/podcasts/freemanartcompany/863752/"
+              title="Gera1"
+              description="Gera was born in Athens, Greece and is a visual artist that started in graffiti in 2009. He graduated with a fine art degree from Thessaloniki and now lives and works in Athens Greece. He has taken part in several exhibitions in Europe and this year he starts his exhibition career in the United States. His work focuses on glitch art and is characterized by realistic portraits and abstract forms that coexist in a space full of slides and intense color contrasts."
+              event="Freeman Art Company"
+              cta="Listen to the podcast"
             />
             <Appearance
-              href="#"
-              title="Programming your company operating system"
-              description="On the importance of creating systems and processes for running your business so that everyone on the team knows how to make the right decision no matter the situation."
-              event="How They Work Radio, September 2021"
-              cta="Listen to podcast"
+              href="https://rss.com/podcasts/freemanartcompany/826016/"
+              title="Jian Giannini"
+              description="Jian is an LA-based painter and muralist. Through a professional career working with production studios and big brands, Jian has created a style of his own. For the past year he has focused on growing his personal brand as an artist and has been growing in popularity since then.
+              'A history in movement inspires my work. Dance, martial arts, and acrobatics have shown me the multitude of intentional and unintentional positions the body can take on. Through my work, I explore the ambiguity of gesture, inviting the viewer to interrogate how they inherently read and ascribe meaning to the physical body.'"
+              event="Freeman Art Company"
+              cta="Listen to the podcast"
+            />
+            <Appearance
+              href="https://rss.com/podcasts/freemanartcompany/293290/"
+              title="Ken Goshen"
+              description="Ken Goshen is a New York-based, Israeli-born classical artist. After serving in the military, Ken decided to pursue painting full time. After teach art in Israel for a few years, Ken decided to move to NYC. He now paints, teaches, and has his own podcast series, 'ART'S COOL'. In this episode, we dive into his daily business operations and how he manages his time. Let's get started"
+              event="Freeman Art Company"
+              cta="Listen to the podcast"
+            />
+            <Appearance
+              href="https://rss.com/podcasts/freemanartcompany/788527/"
+              title="Manuel Skirl"
+              description="Manuel Skirl is a person, born and raised in Vienna. His distinctive style is defined by organic structures resulting from black and blue lines. The artist uses self-made painting tools, he develops in a continuous process. He applies his technique at various scales and on multiple surfaces and leaves an unmistakable, more or less abstract mark."
+              event="Freeman Art Company"
+              cta="Listen to the podcast"
+            />
+            <Appearance
+              href="https://rss.com/podcasts/freemanartcompany/239530/"
+              title="Carla Grace"
+              description="Carla Grace is a hyper-realistic wildlife artist. Growing up in southern Africa, she shares a deep connection with wild animals. Luckily for us, she can paint these majestic creatures to appear as real as life. Join us as we go on an adventure through Carla's art career, where she imparts lessons and business advice as she has navigated managing a family as well as the challenges of making a living in this line of work."
+              event="Freeman Art Company"
+              cta="Listen to the podcast"
             />
           </SpeakingSection>
         </div>
