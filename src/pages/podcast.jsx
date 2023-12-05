@@ -4,7 +4,7 @@ import { Card } from '@/components/Card'
 import { Section } from '@/components/Section'
 import { SimpleLayout } from '@/components/SimpleLayout'
 
-function SpeakingSection({ children, ...props }) {
+function PodcastSection({ children, ...props }) {
   return (
     <Section {...props}>
       <div className="space-y-16">{children}</div>
@@ -25,11 +25,11 @@ function Appearance({ title, description, event, cta, href }) {
   )
 }
 
-export default function Speaking() {
+export default function Podcast() {
   return (
     <>
       <Head>
-        <title>Speaking - Ethan Freeman</title>
+        <title>Podcast - Ethan Freeman</title>
         <meta
           name="description"
           content="I have a podcast project where I interview artists about the business side of their business."
@@ -40,7 +40,7 @@ export default function Speaking() {
         intro="Our conversations cover their entry to the industry, building their brand, and expanding their network. I find these types of entrepreneurs fascinating because they have to engage both their creative sides for their products as well as marketing, but use the logical side of their brain to get to the big leagues."
       >
         <div className="space-y-20">
-          <SpeakingSection title="Podcast">
+          <PodcastSection title="Podcast">
             <Appearance
               href="https://open.spotify.com/episode/3UoMLPDuP0EFp1jvP5k1Ba?si=d949427a18e84ad9"
               title="Brandon Wisecarver"
@@ -91,7 +91,7 @@ export default function Speaking() {
               event="Freeman Art Company"
               cta="Listen to the podcast"
             />
-          </SpeakingSection>
+          </PodcastSection>
         </div>
       </SimpleLayout>
     </>
