@@ -44,7 +44,7 @@ export default function About() {
         <title>About - Ethan Freeman</title>
         <meta
           name="description"
-          content="I’m Ethan Freeman. I live in Texas, where I design the new software products."
+          content="I’m Ethan Freeman. I live in Texas, where I design new software products."
         />
       </Head>
       <Container className="mt-16 sm:mt-32">

@@ -275,20 +275,20 @@ export default function Home({ articles }) {
     <>
       <Head>
         <title>
-          Ethan Freeman - Software designer, founder, and amateur astronaut
+          Ethan Freeman - Software engineer, founder, and amateur astronaut
         </title>
         <meta
           name="description"
-          content="I’m Ethan, a software designer and entrepreneur based in Houston. I’m the founder and CEO of Freeman Art Company, where we develop technologies that empower regular artists to earn passive income and sell art on their own terms."
+          content="I’m Ethan, a software engineer and entrepreneur based in Houston. I’m the sales engineer of HubOEM, a headless e-commerce platform for original equipment manufacturers and consumer packaged goods manufacturers."
         />
       </Head>
       <Container className="mt-9">
         <div className="max-w-2xl">
           <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
-            Software designer, founder, and amateur entrepreneur.
+            Software engineer, founder, and amateur entrepreneur.
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-            Hi, I’m Ethan, a software designer and entrepreneur based in Houston. I’m the founder and CEO of Freeman Art Company, an app to help manage art rotations, as well as the Co-Founder of HubOEM, a headless e-commerce platform for original equipment and consumer packaged goods manufacturers. Both companies center around easier connections between both parties by means of QR codes. Overall, you can say I am fasinated with the way software can revolutionize how business is done and create economic incentive for all stakeholders. 
+            Hi, I’m Ethan, a software engineer and entrepreneur based in Houston. I’m the sales engineer of HubOEM, a headless e-commerce platform for original equipment manufacturers and consumer packaged goods manufacturers. Both companies center around easier connections between both parties by means of QR codes. Overall, you can say I am fasinated with the way software can revolutionize how business is done and create economic incentive for all stakeholders. 
           </p>
           <div className="mt-6 flex gap-6">
             <SocialLink
@@ -297,7 +297,7 @@ export default function Home({ articles }) {
               icon={MediumIcon}
             />
             <SocialLink
-              href="https://www.instagram.com/the.ethan.freeman/"
+              href="https://www.instagram.com/another.ethan.freeman/"
               aria-label="Follow on Instagram"
               icon={InstagramIcon}
             />
