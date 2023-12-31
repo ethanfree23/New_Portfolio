@@ -279,7 +279,7 @@ export default function Home({ articles }) {
         </title>
         <meta
           name="description"
-          content="I’m Ethan, a software engineer and entrepreneur based in Houston. I’m the sales engineer of HubOEM, a headless e-commerce platform for original equipment manufacturers and consumer packaged goods manufacturers."
+          content="I’m Ethan, a software engineer and entrepreneur based in Houston. I am the sales engineer of HubOEM, a B2B SaaS platform for original equipment manufacturers, distributors, and consumer packaged goods manufacturers."
         />
       </Head>
       <Container className="mt-9">
@@ -288,7 +288,7 @@ export default function Home({ articles }) {
             Software engineer, founder, and amateur entrepreneur.
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-            Hi, I’m Ethan, a software engineer and entrepreneur based in Houston. I’m the sales engineer of HubOEM, a headless e-commerce platform for original equipment manufacturers and consumer packaged goods manufacturers. Both companies center around easier connections between both parties by means of QR codes. Overall, you can say I am fasinated with the way software can revolutionize how business is done and create economic incentive for all stakeholders. 
+            Hi, I’m Ethan, a software engineer and entrepreneur based in Houston. I am the sales engineer of HubOEM, a B2B SaaS platform for original equipment manufacturers, distributors, and consumer packaged goods manufacturers. Users can access profiles for their machines, viewing documents, ordering spare parts, and requesting for service. Overall, you can say I am fasinated with the way software can revolutionize how business is done and create economic incentive for all stakeholders. 
           </p>
           <div className="mt-6 flex gap-6">
             <SocialLink
