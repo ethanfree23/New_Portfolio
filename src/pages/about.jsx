@@ -68,10 +68,10 @@ export default function About() {
                 I started working at HubOEM in January of 2021, and my main focus was sales. After I got the attention of a few prospects, we moved the discussion to videocalls. This is when I first began to experience the role of a sales engineer: learning about the prospects needs and current limitations, demonstrating how our software can help their business, and working closely with development and the client to ensure a thorough implementation.
               </p>
               <p>
-                March 9th, 2020 I found myself starting my dream job as a surgical sales consultant. Over the course of the next year, life was turned upside down, and I found myself with the opportunity to focus on what mattered most to me. A thought that had haunted me for years finally found its way to my daily agenda: Artwork as a service. Also, I was forunate enough to be the 3rd member to a software startup: customer service portal for machine manufacturers.
+                Previous to working at HubOEM, I was a surgical sales consultant for Synthes, and later Nuvasive. Working in such an intense and detail intensive environment pushed me to grow in many ways. Overall my professionalism, attention to detail, creative thinking, and problem solving capabilities increased tremendously. I am excited to work in technology, knowing I have great experience and skills to rely on, while also knowing I have much more to learn.
               </p>
               <p>
-                As of March 2023, FAC is partend with Hines, a commerical real estate management company, with over 1MM sft of office space in Houston. HubOEM is partnered with Ipsen USA in a lifetime license agreement. Over the course of the next year, I hope the startups are self sustaining in terms of day-to-day operations, new ventures, and process management.
+                Moving forward, I want to join a great team, and serve as the pre-sales solution consultant or sales engineer. This is a position I am passionate about, have skill in, and can hit the ground running. 
               </p>
             </div>
           </div>
