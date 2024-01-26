@@ -275,7 +275,7 @@ export default function Home({ articles }) {
     <>
       <Head>
         <title>
-          Ethan Freeman - Software engineer, founder, and amateur astronaut
+          Ethan Freeman - Software Sales Engineer
         </title>
         <meta
           name="description"
@@ -285,10 +285,10 @@ export default function Home({ articles }) {
       <Container className="mt-9">
         <div className="max-w-2xl">
           <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
-            Software engineer, founder, and amateur entrepreneur.
+            Software Sales Engineer 
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-            Hi, I’m Ethan, a software engineer and entrepreneur based in Houston. I am the sales engineer of HubOEM, a B2B SaaS platform for original equipment manufacturers, distributors, and consumer packaged goods manufacturers. Users can access profiles for their machines, viewing documents, ordering spare parts, and requesting for service. Overall, you can say I am fasinated with the way software can revolutionize how business is done and create economic incentive for all stakeholders. 
+            Hi, I’m Ethan, a software sales engineer based in Houston. I am the sales engineer of HubOEM, a B2B SaaS platform for original equipment manufacturers, distributors, and consumer packaged goods manufacturers. Users can access profiles for their machines, viewing documents, ordering spare parts, and requesting for service. Overall, you can say I am fasinated with the way software can revolutionize how business is done and create economic incentive for all stakeholders. 
           </p>
           <div className="mt-6 flex gap-6">
             <SocialLink

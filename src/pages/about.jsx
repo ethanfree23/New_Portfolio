@@ -61,11 +61,11 @@ export default function About() {
           </div>
           <div className="lg:order-first lg:row-span-2">
             <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
-              I’m Ethan Freeman. I live in Texas, where I design the new software products.
+              I’m Ethan Freeman. I live in Houston, where I help aftermarket departments.
             </h1>
             <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
               <p>
-                From a young age, I was fasinated with entrepreneurship, though I did not know to call it that at the time. Every time I caught myself saying, "They should make a _________ that does ________ differently" or "Why don't they have a thing where you can do xyz without _____ problem?", a feeling would strike, telling me to be the they.
+                I started working at HubOEM in January of 2021, and my main focus was sales. After I got the attention of a few prospects, we moved the discussion to videocalls. This is when I first began to experience the role of a sales engineer: learning about the prospects needs and current limitations, demonstrating how our software can help their business, and working closely with development and the client to ensure a thorough implementation.
               </p>
               <p>
                 March 9th, 2020 I found myself starting my dream job as a surgical sales consultant. Over the course of the next year, life was turned upside down, and I found myself with the opportunity to focus on what mattered most to me. A thought that had haunted me for years finally found its way to my daily agenda: Artwork as a service. Also, I was forunate enough to be the 3rd member to a software startup: customer service portal for machine manufacturers.
