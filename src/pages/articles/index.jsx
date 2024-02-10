@@ -37,22 +37,23 @@ function Article({ article }) {
 }
 
 export default function ArticlesIndex({ articles }) {
-  // const [articles, setArticles] = useState([]);
-
-  // const fecthArticles = () => {
-  //   fetch(
-  //     'https://api.medium.com/v1/users/ethanfree23/publications',
-  //     {
-  //       headers: { 
-  //         Authorization: 'Bearer 25492b6fc334ed8e898a6190a23adcbaea5b287347b5490221341aa62bc029cd2' 
-  //       },
-  //     }
-  //   ).then(res => res.json()).then((json) => {setArticles(json)})
-
-  //   useEffect(() => {
-  //     fecthArticles();
-  //   })
-  // }
+//   export default function ArticlesIndex({ article }) {
+//     const [articles, setArticles] = useState([]);
+  
+//     const fecthArticles = () => {
+//       fetch(
+//         'https://api.medium.com/v1/users/ethanfree23/publications',
+//         {
+//           headers: {
+//             Authorization: 'Bearer 25492b6fc334ed8e898a6190a23adcbaea5b287347b5490221341aa62bc029cd2'
+//           },
+//         }
+//       ).then(res => res.json()).then((json) => { setArticles(json) })
+  
+//       useEffect(() => {
+//         fecthArticles();
+//       })
+//     }
 
 
   return (

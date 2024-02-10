@@ -11,19 +11,19 @@ import logoHuboem from '@/images/logos/huboem.svg'
 
 const projects = [
   {
-    name: 'FAC',
-    description:
-      'Artwork-as-a-service for businesses and individuals. Keep things fresh, experience more art, at a fraction of the price',
-    link: { href: 'http://www.freemanartcompany.com', label: 'freemanartcompany.com' },
-    logo: logoFAC,
-  },
-  {
     name: 'HubOEM',
     description:
-      'Customer service platform for machine manufacturers. Parts, service, documents.',
+      'We fix spare part ordering for OEMs. Our customer service platform is designed for aftermarket teams in the food processing and packaging industry.',
     link: { href: 'http://www.huboem.com', label: 'huboem.com' },
     logo: logoHuboem,
   },
+  {
+    name: 'FAC',
+    description:
+      'Artwork-as-a-service for businesses and individuals. Keep things fresh, experience more art, at a fraction of the price. [For now the site is down, it will be back up soon enough.]',
+    link: { href: 'http://www.freemanartcompany.com', label: 'freemanartcompany.com' },
+    logo: logoFAC,
+  }
   // {
   //   name: 'Infosys',
   //   description:

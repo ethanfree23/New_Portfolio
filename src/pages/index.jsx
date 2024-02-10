@@ -143,16 +143,6 @@ function Newsletter() {
 function Resume() {
   let resume = [
     {
-      company: 'Infosys',
-      title: 'Associate Scrum Master',
-      logo: logoInfosys,
-      start: 'Jun-2022',
-      end: {
-        label: 'Present',
-        dateTime: new Date().getFullYear(),
-      },
-    },
-    {
       company: 'HubOEM',
       title: 'Co-Founder, Sales',
       logo: logoHuboem,
@@ -164,34 +154,38 @@ function Resume() {
     },
     {
       company: 'Freeman Art Company',
-      title: 'Founder',
+      title: 'Founder, Sales',
       logo: logoFAC,
       start: 'Oct-2020',
-      end: {
-        label: 'Present',
-        dateTime: new Date().getFullYear(),
-      },
+      end: 'Sep 2023'
+    },
+    {
+      company: 'Infosys',
+      title: 'Scrum Master',
+      logo: logoInfosys,
+      start: 'Jun 2022',
+      end: 'Aug 2023'
     },
     {
       company: 'Nuvasive',
-      title: 'Surgical Sales Consultant',
+      title: 'Surgical Consultant',
       logo: logoNuvasive,
-      start: 'Feb-2020',
-      end: 'Jan-2021',
+      start: 'Feb 2020',
+      end: 'Jan 2021',
     },
     {
       company: 'DePuy Synthes',
-      title: 'Surgical Saels Consultant',
+      title: 'Surgical Consultant',
       logo: logoSynthes,
-      start: 'Jul-2018',
-      end: 'Oct-2019',
+      start: 'Jul 2018',
+      end: 'Oct 2019',
     },
     {
       company: 'SHI',
       title: 'Inside Sales',
       logo: logoSHI,
-      start: 'Nov-2017',
-      end: 'Jul-2018',
+      start: 'Nov 2017',
+      end: 'Jul 2018',
     },
   ]
 
@@ -219,9 +213,8 @@ function Resume() {
               <dt className="sr-only">Date</dt>
               <dd
                 className="ml-auto text-xs text-zinc-400 dark:text-zinc-500"
-                aria-label={`${role.start.label ?? role.start} until ${
-                  role.end.label ?? role.end
-                }`}
+                aria-label={`${role.start.label ?? role.start} until ${role.end.label ?? role.end
+                  }`}
               >
                 <time dateTime={role.start.dateTime ?? role.start}>
                   {role.start.label ?? role.start}
@@ -285,10 +278,17 @@ export default function Home({ articles }) {
       <Container className="mt-9">
         <div className="max-w-2xl">
           <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
-            Software Sales Engineer 
+            Life is one big trip...
           </h1>
+
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-            Hi, I’m Ethan, a software sales engineer based in Houston. I am the sales engineer of HubOEM, a B2B SaaS platform for original equipment manufacturers, distributors, and consumer packaged goods manufacturers. Users can access profiles for their machines, viewing documents, ordering spare parts, and requesting for service. Overall, you can say I am fasinated with the way software can revolutionize how business is done and create economic incentive for all stakeholders. 
+            Hi, I’m Ethan, a software sales engineer from the USA. Currently, I am working on a B2B SaaS startup called HubOEM, with the mission of fixing spare parts ordering for machine manufacturers. The platform supports the aftermarket operations for original equipment manufacturers, distributors, and contract manufacteres within the food and beverage industry. HubOEM allows users to access profiles for their machines to view documents, order spare parts, or request for service. I love working on this project! The people in the indstry are great, the work is impactful, and the ability to travel has been incredible.
+          </p>
+          <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
+            In general, outside of my career, I enjoy learning new things, particularly language, city design, and global geopolitics. For whatever reason, foreign cultures have always fascinated me. I love to dive into another way of life, to see what being human is from a different perspective. As I continue to learn and explore our world, I hope one day I am able to bring it all together to create a product that helps massive amounts of the population live a life with access to water, energy, education, and outstanding cultural values, like supporting family and being good to others. We have found ourselves on a beautiful planet. My hope is to help reflect that in how we live.
+          </p>
+          <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
+            Life is a big trip... There is so much chaos, and it is so difficult to move past the ocean of emotions whose waves' crash into us, making the journey strenuous at times. We can be confused and uncertain. One thing is for sure, if we sit around and do nothing, we miss the world. We need to get out, try new things, challenge who we are down to the core. Take time for some mental hygiene. Eat well. Spend time with friends, even sober once in a while. Learn to dance, learn to cook. Dive into the water, climb on the rock, sit on the sand. Leave the phone and go on a walk.  Buy the ticket already, the money comes back. Stay at a hostel.Ask the weird question. Look out the window in the Uber. Embrace the chaos, out chaos the chaos.
           </p>
           <div className="mt-6 flex gap-6">
             <SocialLink

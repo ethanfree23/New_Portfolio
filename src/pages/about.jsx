@@ -61,7 +61,7 @@ export default function About() {
           </div>
           <div className="lg:order-first lg:row-span-2">
             <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
-              I’m Ethan Freeman. I live in Houston, where I help aftermarket departments.
+              Hello there, I am Ethan and I am an entrepreneur. 
             </h1>
             <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
               <p>
@@ -71,7 +71,7 @@ export default function About() {
                 Previous to working at HubOEM, I was a surgical sales consultant for Synthes, and later Nuvasive. Working in such an intense and detail intensive environment pushed me to grow in many ways. Overall my professionalism, attention to detail, creative thinking, and problem solving capabilities increased tremendously. I am excited to work in technology, knowing I have great experience and skills to rely on, while also knowing I have much more to learn.
               </p>
               <p>
-                Moving forward, I want to join a great team, and serve as the pre-sales solution consultant or sales engineer. This is a position I am passionate about, have skill in, and can hit the ground running. 
+                At this point, HubOEM is onboarding our largest customers to date. We have added new features to allow for easier use and greater functionality. We hope within 2024 we can onbaord more OEMs and distributors. All the users love the functionality so far, so we are excited to see how everyone responds to the output of our current efforts.
               </p>
             </div>
           </div>
