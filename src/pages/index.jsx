@@ -276,7 +276,7 @@ export default function Home({ articles }) {
         />
       </Head>
       <Container className="mt-9">
-        <div className="max-w-2xl">
+        <div className="max-w-4xl">
           <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
             Full Stack Human
           </h1>
@@ -288,7 +288,7 @@ export default function Home({ articles }) {
 
             At Freeman Art Company, my passion for supporting others through my creations shines through. By empowering artists with new avenues to market their works, I aim to make a meaningful impact in the art community. This commitment to innovation and collaboration is at the core of everything I do, driving me to leave a legacy of excellence in every project I undertake.
 
-            As you explore my portfolio, you'll discover not just a showcase of my technical prowess, but a glimpse into my character and mindset. Join me on this journey of creation, and together, let's build a future where possibilities are limitless.          </p>
+            As you explore my portfolio, you&apos;ll discover not just a showcase of my technical prowess, but a glimpse into my character and mindset. Join me on this journey of creation, and together, let&apos;s build a future where possibilities are limitless.          </p>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
             In general, outside of my career, I enjoy learning new things, particularly language, city design, and global geopolitics. For whatever reason, foreign cultures have always fascinated me. I love to dive into another way of life, to see what being human is from a different perspective. As I continue to learn and explore our world, I hope one day I am able to bring it all together to create a product that helps massive amounts of the population live a life with access to water, energy, education, and outstanding cultural values, like supporting family and being good to others. We have found ourselves on a beautiful planet. My hope is to help reflect that in how we live.
           </p>

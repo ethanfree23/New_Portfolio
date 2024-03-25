@@ -19,7 +19,14 @@ const projects = [
       'Artwork-as-a-service for businesses and individuals. Keep things fresh, experience more art, at a fraction of the price.',
     link: { href: 'https://freeman-art-company.vercel.app/', label: 'freemanartcompany.com' },
     logo: logoFAC,
-  }
+  },
+  {
+    name: 'Instagram Clone - Practice',
+    description:
+      'Friendly copy of Instagram. Used Firebase for the first time.',
+    link: { href: 'https://github.com/ethanfree23/instagram_clone', label: 'Freeman-stagram.com' },
+    logo: logoFAC,
+  },
 ]
 
 function LinkIcon(props) {

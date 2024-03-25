@@ -32,11 +32,11 @@ export default function Podcast() {
         <title>Podcast - Ethan Freeman</title>
         <meta
           name="description"
-          content="I have a podcast project where I interview artists about the business side of their business."
+          content="I had a podcast project where I interview artists about the business side of their business."
         />
       </Head>
       <SimpleLayout
-        title="I have a podcast project where I interview artists about the business side of their business."
+        title="I had a podcast project where I interview artists about the business side of their business."
         intro="Our conversations cover their entry to the industry, building their brand, and expanding their network. I find these types of entrepreneurs fascinating because they have to engage both their creative sides for their products as well as marketing, but use the logical side of their brain to get to the big leagues."
       >
         <div className="space-y-20">
