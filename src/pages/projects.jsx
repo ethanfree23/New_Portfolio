@@ -1,13 +1,9 @@
 import Image from 'next/future/image'
 import Head from 'next/head'
-
 import { Card } from '@/components/Card'
 import { SimpleLayout } from '@/components/SimpleLayout'
 import logoFAC from '@/images/logos/fac.svg'
 import logoHuboem from '@/images/logos/huboem.svg'
-// import logoCosmos from '@/images/logos/cosmos.svg'
-// import logoHelioStream from '@/images/logos/helio-stream.svg'
-// import logoOpenShuttle from '@/images/logos/open-shuttle.svg'
 
 const projects = [
   {
@@ -18,19 +14,12 @@ const projects = [
     logo: logoHuboem,
   },
   {
-    name: 'FAC',
+    name: 'Freeman Art Company',
     description:
       'Artwork-as-a-service for businesses and individuals. Keep things fresh, experience more art, at a fraction of the price. [For now the site is down, it will be back up soon enough.]',
-    link: { href: 'http://www.freemanartcompany.com', label: 'freemanartcompany.com' },
+    link: { href: 'https://freeman-art-company.vercel.app/', label: 'freemanartcompany.com' },
     logo: logoFAC,
   }
-  // {
-  //   name: 'Infosys',
-  //   description:
-  //     'A software development company based in India',
-  //   link: { href: '#', label: 'github.com' },
-  //   logo: logoHelioStream,
-  // },
 ]
 
 function LinkIcon(props) {
