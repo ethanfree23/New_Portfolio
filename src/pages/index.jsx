@@ -272,18 +272,23 @@ export default function Home({ articles }) {
         </title>
         <meta
           name="description"
-          content="I’m Ethan, a software engineer and entrepreneur based in Houston. I am the sales engineer of HubOEM, a B2B SaaS platform for original equipment manufacturers, distributors, and consumer packaged goods manufacturers."
+          content="Welcome to my portfolio, where innovation meets passion."
         />
       </Head>
       <Container className="mt-9">
         <div className="max-w-2xl">
           <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
-            Life is one big trip...
+            Full Stack Human
           </h1>
 
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-            Hi, I’m Ethan, a software sales engineer from the USA. Currently, I am working on a B2B SaaS startup called HubOEM, with the mission of fixing spare parts ordering for machine manufacturers. The platform supports the aftermarket operations for original equipment manufacturers, distributors, and contract manufacteres within the food and beverage industry. HubOEM allows users to access profiles for their machines to view documents, order spare parts, or request for service. I love working on this project! The people in the indstry are great, the work is impactful, and the ability to travel has been incredible.
-          </p>
+            Welcome to my portfolio, where innovation meets passion. As a seasoned creator in the tech industry, I weave together a tapestry of skills spanning software engineering, project management, and sales. With each project, I embark on a journey of creation, driven by an innate desire to bring order to chaos. My love for cleanliness and efficiency fuels my commitment to crafting seamless solutions, where every part works harmoniously towards a common goal.
+
+            My journey as a creator is rooted in a deep-seated appreciation for problem-solving and complex challenges. From my days in medical sales, navigating the intricacies of implant consulting for orthopedic trauma and spine surgeries, to my work with HubOEM, where I specialize in enterprise B2B SaaS sales. Here, I collaborate with large food brands and their machine manufacturers, providing innovative solutions tailored to their needs. Additionally, my role extends to full-stack development and project management, ensuring the smooth execution of each endeavor.
+
+            At Freeman Art Company, my passion for supporting others through my creations shines through. By empowering artists with new avenues to market their works, I aim to make a meaningful impact in the art community. This commitment to innovation and collaboration is at the core of everything I do, driving me to leave a legacy of excellence in every project I undertake.
+
+            As you explore my portfolio, you'll discover not just a showcase of my technical prowess, but a glimpse into my character and mindset. Join me on this journey of creation, and together, let's build a future where possibilities are limitless.          </p>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
             In general, outside of my career, I enjoy learning new things, particularly language, city design, and global geopolitics. For whatever reason, foreign cultures have always fascinated me. I love to dive into another way of life, to see what being human is from a different perspective. As I continue to learn and explore our world, I hope one day I am able to bring it all together to create a product that helps massive amounts of the population live a life with access to water, energy, education, and outstanding cultural values, like supporting family and being good to others. We have found ourselves on a beautiful planet. My hope is to help reflect that in how we live.
           </p>
