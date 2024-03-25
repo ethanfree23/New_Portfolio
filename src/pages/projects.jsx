@@ -16,7 +16,7 @@ const projects = [
   {
     name: 'Freeman Art Company',
     description:
-      'Artwork-as-a-service for businesses and individuals. Keep things fresh, experience more art, at a fraction of the price. [For now the site is down, it will be back up soon enough.]',
+      'Artwork-as-a-service for businesses and individuals. Keep things fresh, experience more art, at a fraction of the price.',
     link: { href: 'https://freeman-art-company.vercel.app/', label: 'freemanartcompany.com' },
     logo: logoFAC,
   }
