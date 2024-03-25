@@ -4,6 +4,7 @@ import { Card } from '@/components/Card'
 import { SimpleLayout } from '@/components/SimpleLayout'
 import logoFAC from '@/images/logos/fac.svg'
 import logoHuboem from '@/images/logos/huboem.svg'
+import logoIg from '@/images/logos/ig.png'
 
 const projects = [
   {
@@ -24,8 +25,8 @@ const projects = [
     name: 'Instagram Clone - Practice',
     description:
       'Friendly copy of Instagram. Used Firebase for the first time.',
-    link: { href: 'https://github.com/ethanfree23/instagram_clone', label: 'Freeman-stagram.com' },
-    logo: logoFAC,
+    link: { href: 'https://github.com/ethanfree23/instagram_clone', label: 'freemangram.com' },
+    logo: logoIg,
   },
 ]
 
@@ -52,7 +53,7 @@ export default function Projects() {
       </Head>
       <SimpleLayout
         title="Things I’ve made trying to put my dent in the universe."
-        intro="I’ve worked on tons of little projects over the years but these are the ones that I’m most proud of. Many of them are open-source, so if you see something that piques your interest, check out the code and contribute if you have ideas for how it can be improved."
+        intro="Here are the projects I have worked on, either by myself, or collaborating with other developers and designers. I love seeing a project come together week by week, until one day people you never even met are using it."
       >
         <ul
           role="list"

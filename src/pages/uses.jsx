@@ -36,8 +36,8 @@ export default function Uses() {
         />
       </Head>
       <SimpleLayout
-        title="Software & gadets."
-        intro="I get asked a lot about the things I use to build software, stay productive, or buy to fool myself into thinking I’m being productive when I’m really just procrastinating. Here’s a big list of all of my favorite stuff."
+        title="Software 'n gadets."
+        intro="I get asked a lot about the things I use to build software & stay productive. Here’s a big list of all of my favorite stuff."
       >
         <div className="space-y-20">
           <ToolsSection title="Workstation">
@@ -83,6 +83,9 @@ export default function Uses() {
               We use Jira for our Scrum. It is very easy to collaborate across internal
               and contract developers. I particularly like the ease to edit, combine, 
               and delete.
+            </Tool>
+            <Tool title="Confluence">
+              We use Confluence to keep track of our processes. It is essentially a ledger of tribal knowledge. Our goal is to have all our processes and goals defined so well, someone can simply copy these guides and produce the same product.
             </Tool>
           </ToolsSection>
         </div>
