@@ -42,13 +42,13 @@ export default function Uses() {
         <div className="space-y-20">
           <ToolsSection title="Workstation">
             <Tool title="14” Microsoft Surface 2, 8GB RAM (2017)">
-              I was using an Apple Air 14" before this, but a hobo stole it out 
+              I was using an Apple Air 14&quot; before this, but a hobo stole it out 
               of my car while I was getting a haircut. I honestly do not like this
               computer. The touch screen is nice, so there is that.
             </Tool>
             <Tool title="HP M-f FHD Display">
               This is a great monitor that I use to project manage, code, and for 
-              video calls. The display's colors are on point and the articulating arm
+              video calls. The display&apos;s colors are on point and the articulating arm
               works well with my standing desk.
             </Tool>
           </ToolsSection>
@@ -60,7 +60,7 @@ export default function Uses() {
               up a webstie quite quickly.
             </Tool>
             <Tool title="Ruby on Rails">
-              I'm not the biggest user of Rails. I naturally enjoyed the front end 
+              I&apos;m not the biggest user of Rails. I naturally enjoyed the front end 
               aspect of developemnt, and on our team, we have a backend developer.
               For what it is worth, it is a great framework to learn a lot under one
               roof. If you stay within its usecase, it will automate a lot of work.
