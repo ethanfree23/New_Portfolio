@@ -282,7 +282,15 @@ export default function Home({ articles }) {
           </h1>
 
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-            As a seasoned creator in the tech industry, I weave together skills spanning software engineering, project management, and sales. Each project is a journey of creation, driven by a desire to bring order to chaos. My love for cleanliness and efficiency fuels my commitment to crafting seamless solutions, where every part works harmoniously towards a common goal. From medical sales to enterprise B2B SaaS sales, I specialize in providing innovative solutions tailored to clients' needs. Additionally, I empower artists with new avenues to market their works, aiming to make a meaningful impact in the art community. This commitment to innovation and collaboration drives me to leave a legacy of excellence. Outside of my career, I enjoy learning new things, particularly language, city design, and global geopolitics. My hope is to create a product that helps provide access to water, energy, education, and outstanding cultural values for the population. Life is a big trip, full of chaos. Embrace it, challenge yourself, and explore the world around you.
+            As a seasoned creator in the tech industry, I weave together skills spanning software engineering, project management, and sales. 
+            Each project is a journey of creation, driven by a desire to bring order to chaos. 
+            My love for cleanliness and efficiency fuels my commitment to crafting seamless solutions, where every part works harmoniously towards a common goal. 
+            From medical sales to enterprise B2B SaaS sales, I specialize in providing innovative solutions tailored to clients&apos; needs. 
+            Additionally, I empower artists with new avenues to market their works, aiming to make a meaningful impact in the art community. 
+            This commitment to innovation and collaboration drives me to leave a legacy of excellence. 
+            Outside of my career, I enjoy learning new things, particularly language, city design, and global geopolitics. 
+            My hope is to create a product that helps provide access to water, energy, education, and outstanding cultural values for the population. 
+            Life is a big trip, full of chaos. Embrace it, challenge yourself, and explore the world around you.
           </p>
           <div className="mt-6 flex gap-6">
             <SocialLink
