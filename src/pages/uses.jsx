@@ -84,6 +84,17 @@ export default function Uses() {
               and contract developers. I particularly like the ease to edit, combine, 
               and delete.
             </Tool>
+            <Tool title="Youtube">
+              I use Youtube for so much it is insane. I cannot believe how lucky I am to be 
+              alive in a time where Youtube exists. If I want to learn about how to code something complex: Youtube.
+               If I want to fix something on my car: Youtube. If I want to learn virtually anything: Youtube.
+            </Tool>
+            <Tool title="ChatGPT">
+              Yes, ChatGPT is literally changing my life. Yes, I have considered altering my existence and am actively trying to do so becuase of ChatGPT. 
+              This thing is it. I can overcome bugs with ease, allowing me to code like crazy. I can cook based on the ingredients I have, for a serving of one, by simply 
+              telling Chat what I am looking to accomplish. I can spin up a triathlon work out specific to my last work out or my current level of energy. It is the most 
+              powerful tool I have ever used, and I am so happy to know that it is here not only to stay, but to grow in its capabilities.
+            </Tool>
             <Tool title="Confluence">
               We use Confluence to keep track of our processes. It is essentially a ledger of tribal knowledge. Our goal is to have all our processes and goals defined so well, someone can simply copy these guides and produce the same product.
             </Tool>
