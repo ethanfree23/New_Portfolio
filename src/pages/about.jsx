@@ -65,13 +65,19 @@ export default function About() {
             </h1>
             <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
               <p>
-                Going to the University of Texas at Austin between 2012 and 2016, there was a massive focus on technology, amongst each college. Austin, being the tech hub of Texas, was attracting top tech talent from not only across the state, but across the world. It was exciting to be around so much creativity and passion surrounding a booming industry. Naturally, my focus became hyper focused on novel business idea, and what it would take for the idea to become a self-sustaining company competing with the best in its respective industry.
+                Going to the University of Texas at Austin between 2012 and 2016, there was a massive focus on technology amongst each college. Austin, being the tech hub of Texas, was attracting top tech talent not only from across the state but also from across the world. It was exciting to be around so much creativity and passion surrounding a booming industry. Naturally, my focus became hyper-focused on a novel business idea and what it would take for the idea to become a self-sustaining company competing with the best in its respective industry.
               </p>
               <p>
-                Though I had epiphanies surrounding the importance of tech, I kept wprking on my nutrition degree with plans to be a medical sales rep. The truth was, I wanted to be an entrepreneur. I wanted to know how to not only come up with great ideas, but I wanted to skill stack to take an idea from just a thought to a product that is earning revenue. During every surgery I covered as a rep, I would day dream about knowing how to code, market, sell, manage money and operations, and do much more all for the sake of not having to work for someone else.
+                Though I had epiphanies surrounding the importance of tech, I kept working on my nutrition degree with plans to be a medical sales rep. The truth was, I wanted to be an entrepreneur. I was confident I could come up with great ideas, but I wanted to skill stack to take my ideas from just a thought to products that are earning revenue. During every surgery I covered as a rep, I would daydream (when appropriate) about being able to code, market, sell, manage money, and operate a software company. This was all in an effort to avoid working for others, something I absolutely despise.
               </p>
               <p>
-                Sure enough, my dreams were answered. I felt this persistent nag, pushing me to seek a side hustle, and ended up meeting Alex through this. When he told me the idea of creating a serial number based parts portal for machine manufacturers, I knew this would be a great problem to help solve. Years later, here we are! We have over five OEMs, two distributors, and over 1,000 consumer packaged goods manufacturers on our platform. In this process, I have not only learned to code full stack, but I have also learn to project manage, sell software like a true professional, and I have grown in my understanding of food production and the operational requirements and bottlenecks associated with this industry. In my journey, I have met many people in the industry from every imaginable industrial sub-secotr and every imaginable human sub-culture. I absolutley love doing this, and thank god, or whatever beautiful push of wind that lead me to doing this day in and day out.
+               
+Sure enough, my dreams were answered. I felt this persistent nag, pushing me to seek a side hustle, leading me to meet Alex. When he told me the idea of creating a serial number-based parts portal for machine manufacturers, I knew this would be a great problem to help solve. Years later, here we are! We have over five OEMs, two distributors, and over 1,000 consumer packaged goods manufacturers on our platform. In this process, I have not only learned to code full stack, but I have also learned to project manage, sell software like a true professional, and I have grown in my understanding of food production and the operational requirements and bottlenecks associated with this industry. In my journey, I have met many people in the industry from every imaginable industrial sub-sector and every imaginable human subculture. I absolutely love doing this, and thank God, or whatever beautiful push of wind that led me to doing this day in and day out.
+
+
+
+
+
               </p>
             </div>
           </div>
